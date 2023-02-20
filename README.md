@@ -1,5 +1,4 @@
 # PCA
 
-We have some data having different compositions of ingredients used in wine.
-Using PCA and unsupervised techniques we will figure out whats difference in them
-Also comparing which algorithms gives the best result
+Will feature selection technique help to figure out wine quality?   
+Checkout [here](https://github.com/KamalMahanna/PCA/blob/main/wine.ipynb)
